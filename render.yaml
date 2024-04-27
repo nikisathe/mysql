@@ -34,7 +34,4 @@ envVarGroups:
         value: mysql
       - key: MYSQL_USER
         value: mysql
-      - key: MYSQL_PASSWORD
-        generateValue: true
-      - key: MYSQL_ROOT_PASSWORD
-        generateValue: true
+      
